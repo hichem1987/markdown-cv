@@ -3,8 +3,8 @@ layout: cv
 title: Hichem Hamdaoui's CV
 ---
 # Hichem Hamdaoui
-web Developer, 
-frontend developer (AngularJS, jQuery, CSS3, HTML5 Bootstrap)
+web Developer<br> 
+frontend developer (AngularJS, jQuery, CSS3, HTML5 Bootstrap)<br>
 Backend developer (PHP5, CMS)
 
 <div id="webaddress">
