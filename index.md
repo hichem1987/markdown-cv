@@ -2,12 +2,13 @@
 layout: cv
 title: Hichem Hamdaoui's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hichem Hamdaoui
+web Developer, 
+frontend developer (AngularJS, jQuery, CSS3, HTML5 Bootstrap)
+Backend developer (PHP5, CMS)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hamdaoui.hichem@gmail.com">hamdaoui.hichem@gmail.com</a>
 </div>
 
 
