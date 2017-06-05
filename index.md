@@ -3,12 +3,13 @@ layout: cv
 title: Hichem Hamdaoui's CV
 ---
 # Hichem Hamdaoui
-web Developer<br> 
+Web Developer<br> 
 frontend developer (AngularJS, jQuery, CSS3, HTML5 Bootstrap)<br>
 Backend developer (PHP5, CMS)
 
 <div id="webaddress">
-<a href="hamdaoui.hichem@gmail.com">hamdaoui.hichem@gmail.com</a>
+<a href="mailto:hamdaoui.hichem@gmail.com">hamdaoui.hichem@gmail.com</a>
+<a href="tel:+23059332594">+23059332594</a>
 </div>
 
 
